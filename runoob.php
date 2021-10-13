@@ -1,3 +1,3 @@
 <?php
-echo 'change_site';
+echo 'main';
 ?>
